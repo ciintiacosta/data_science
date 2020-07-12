@@ -12,17 +12,17 @@ Meu portfólio de projetos de data science
 
 Mestranda em Ciência da Computação pela Universidade Federal da Bahia (UFBA), especialista em Gerenciamento de Projetos-TI pela AVM Faculdade Integrada e graduada em Sistemas de Informação pela Universidade Estadual de Goiás (UEG). 
 
-**Background in:** Python, Machine Learning e Power BI
+**Background in:** Python, Data Science, Machine Learning e Power BI
 
-**Links:**
+**Links Pessoais:**
 * [LinkedIn](https://www.linkedin.com/in/cíntia-costa-9a044536)
-
+* [Lattes](http://lattes.cnpq.br/2302198791818146)
 
 
 ## Projetos:
-Veja os principais projetos desenvolvidos:
+Alguns projetos desenvolvidos:
 
-* ** Descrição:** link
+* ** Data App de Predição de Imóveis: ** https://bit.ly/2Zlc0lx
 
 
 ---
