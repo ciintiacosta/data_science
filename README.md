@@ -1,8 +1,8 @@
 # data_science
 Meu portfólio de projetos de data science
 
-[![author](https://img.shields.io/badge/author-ciintiacosta-red.svg)](https://linkedin.com/in/cíntia-costa-9a044536) 
-[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![author](https://img.shields.io/badge/author-ciintiacosta-purple.svg)](https://linkedin.com/in/cíntia-costa-9a044536) 
+[![](https://img.shields.io/badge/python-3.7+-orange.svg)](https://www.python.org/downloads/release/python-365/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ciintiacosta/data_science/issues)
 
