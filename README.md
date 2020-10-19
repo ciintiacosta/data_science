@@ -26,7 +26,7 @@ Mestranda em Ciência da Computação pela Universidade Federal da Bahia (UFBA),
 Alguns projetos desenvolvidos:
 
 * ** Data App de Predição de Imóveis: ** https://bit.ly/2Zlc0lx
-
+* ** Preditor de Doenças Cardíacas: ** https://bit.ly/35h1Ow3
 
 ---
 
