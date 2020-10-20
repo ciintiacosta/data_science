@@ -27,7 +27,7 @@ Alguns projetos desenvolvidos:
 
 * ** Data App de Predição de Imóveis: ** https://bit.ly/2Zlc0lx
 * ** Preditor de Doenças Cardíacas: ** https://bit.ly/35h1Ow3
-
+* ** Preditor de Inadimplência em R: ** https://bit.ly/3m982VX
 ---
 
 
