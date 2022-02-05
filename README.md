@@ -11,7 +11,7 @@ Meu portfólio de projetos de data science
 </p>
 
 # Cíntia Costa
-<sub>*Analista de Sistemas, Cientista de Dados e Desenvolvedora Python* </sub>
+<sub> </sub>
 
 Mestranda em Ciência da Computação pela Universidade Federal da Bahia (UFBA), especialista em Gerenciamento de Projetos-TI pela AVM Faculdade Integrada e graduada em Sistemas de Informação pela Universidade Estadual de Goiás (UEG). 
 
